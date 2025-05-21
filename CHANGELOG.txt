@@ -1,0 +1,10 @@
+
+CHANGELOG – Diagtool
+
+Version: 2.2
+Date: 2025-05-21
+
+Upcoming (planned):
+- Add session-level log (DiagSession.log)
+- Optional HTML summary report
+- Driver version correlation and outdated driver flag
