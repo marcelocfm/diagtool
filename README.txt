@@ -1,5 +1,7 @@
 Diagnostics
-Author: Marcelo Cano, on behalf of Sorint
+Diagtool
+
+Author: Marcelo Cano
 
 PURPOSE:
 This tool collects key diagnostics from a Windows system to assist Service Desk teams in troubleshooting performance issues, hardware failures, unexpected reboots, network problems, or corrupted system files. It is designed for use during remote support sessions or as a pre-triage diagnostic collector.
