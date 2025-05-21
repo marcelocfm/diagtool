@@ -7,10 +7,10 @@ PURPOSE:
 This tool collects key diagnostics from a Windows system to assist Service Desk teams in troubleshooting performance issues, hardware failures, unexpected reboots, network problems, or corrupted system files. It is designed for use during remote support sessions or as a pre-triage diagnostic collector.
 
 HOW TO USE:
-1. Copy the entire 'EventCollector' folder to C:\\Temp
-2. Run the 'ExportEvents.bat' file (double-click)
-3. Accept the Administrator (UAC) prompt
-4. Use the graphical interface to execute desired tasks:
+
+1. Run the 'ExportEvents.bat' file (double-click)
+2. Accept the Administrator (UAC) prompt
+3. Use the graphical interface to execute desired tasks:
    - "Collect Logs" for system events and device diagnostics
    - "Run SFC" for system file integrity check
    - "Run CHKDSK" for disk scan
